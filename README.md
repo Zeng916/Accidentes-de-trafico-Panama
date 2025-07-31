@@ -7,7 +7,7 @@ Contenido
 - Carpeta de analisis probabilistico: Estan los archivos de los modelos de predicción usando el modelo de machine learning de random forest, la simulacion Montecarlo y serie de tiempo con regresión lineal.
 - Base de datos: Aquí esta los archivos de bases de datos que utilizamos para hacer el estudio
 - Presentaciones estudiantilas: Aquí estan las presentacion de la experiencia de cada estudiante de la realización del proyecto
-- Un documento word con el reporte de nuestros avances del proyecto
+- Carpeta con un documento word con el reporte de nuestros avances del proyecto
 
 Modelos utilizados  
 - Serie de tiempo con regresión lineal 
