@@ -1,0 +1,27 @@
+@relation TrafficAccidentsPanama
+
+@attribute Provincia_de_Bocas_del_Toro numeric
+@attribute Provincia_de_Cocle numeric
+@attribute Provincia_de_Colon numeric
+@attribute Provincia_de_Chiriqui numeric
+@attribute Provincia_de_Darian numeric
+@attribute Provincia_de_Herrera numeric
+@attribute Provincia_de_Los_Santos numeric
+@attribute Provincia_de_Panama numeric
+@attribute Provincia_de_Panama_Oeste numeric
+@attribute Provincia_de_Veraguas numeric
+@attribute Comarca_Kuna_Yala numeric
+@attribute Comarca_Embera numeric
+@attribute Comarca_Ngabe_Bugle numeric
+
+@data
+403,1239,2528,2787,117,821,615,27997,5359,1177,1,1,37
+399,1558,2878,3463,122,845,650,31291,5460,1410,0,0,42
+476,1739,3408,4162,194,1078,765,34858,7129,1625,0,0,52
+499,1738,3426,4906,237,1141,861,34668,7571,1732,0,0,68
+507,1353,3382,4768,226,1001,804,33405,7832,1721,0,0,54
+508,1271,3123,4699,197,1053,752,30141,8028,1698,1,0,57
+366,933,1925,2857,122,763,528,17063,4506,1112,2,2,42
+522,1317,2585,4068,169,968,613,21896,6293,1672,1,0,61
+453,1459,2848,3744,165,1011,647,24134,6912,1721,10,0,74
+440,1573,2509,4014,175,1007,690,26128,7157,1853,10,0,58
