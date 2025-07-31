@@ -1,0 +1,130 @@
+Datos sobre la presición de los modelos de Machine Learning:
+- Bocas del Toro:
+	Correlation coefficient                  0.9911
+	Mean absolute error                      9.9741
+	Root mean squared error                 12.9418
+	Relative absolute error                 22.1154 %
+	Root relative squared error             25.2282 %
+	Total Number of Instances               10  
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?    477.653          ? 
+        2          ?    483.398          ? 
+
+- Cocle:
+	Correlation coefficient                  0.964 
+	Mean absolute error                     82.0735
+	Root mean squared error                 92.7844
+	Relative absolute error                 42.0028 %
+	Root relative squared error             39.4186 %
+	Total Number of Instances               10    
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?   1553.058          ? 
+        2          ?   1579.366          ? 
+
+- Colón:
+	Correlation coefficient                  0.9879
+	Mean absolute error                     93.5397
+	Root mean squared error                118.9212
+	Relative absolute error                 24.474  %
+	Root relative squared error             25.6709 %
+	Total Number of Instances               10 
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?   3228.956          ? 
+        2          ?   3259.045          ? 
+
+- Chiriquí:
+	Correlation coefficient                  0.9826
+	Mean absolute error                    138.501 
+	Root mean squared error                173.2253
+	Relative absolute error                 23.5851 %
+	Root relative squared error             24.4155 %
+	Total Number of Instances               10  
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?   4462.952          ? 
+        2          ?   4490.206          ?  
+
+- Darien:
+	Correlation coefficient                  0.9902
+	Mean absolute error                      6.579 
+	Root mean squared error                  8.7039
+	Relative absolute error                 19.6976 %
+	Root relative squared error             21.532  %
+	Total Number of Instances               10      
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?    219.82           ? 
+        2          ?    220.44           ? 
+
+- Herrera:
+	Correlation coefficient                  0.9891
+	Mean absolute error                     22.6318
+	Root mean squared error                 27.6067
+	Relative absolute error                 23.6635 %
+	Root relative squared error             23.9859 %
+	Total Number of Instances               10 
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?   1061.05           ? 
+        2          ?   1061.05           ? 
+
+- Los Santos:
+	Correlation coefficient                  0.9954
+	Mean absolute error                     14.5193
+	Root mean squared error                 18.8325
+	Relative absolute error                 17.6205 %
+	Root relative squared error             19.5399 %
+	Total Number of Instances               10  
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?    790.184          ? 
+        2          ?    791.936          ? 
+
+- Panamá:
+	Correlation coefficient                  0.9623
+	Mean absolute error                   1552.093 
+	Root mean squared error               1838.9748
+	Relative absolute error                 32.9217 %
+	Root relative squared error             32.9652 %
+	Total Number of Instances               10  
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?  31107.766          ? 
+        2          ?  31957.782          ? 
+
+- Panamá Oeste:
+	Correlation coefficient                  0.9937
+	Mean absolute error                    196.3831
+	Root mean squared error                236.2672
+	Relative absolute error                 20.1179 %
+	Root relative squared error             21.1324 %
+	Total Number of Instances               10
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?   7293.092          ? 
+        2          ?   7293.092          ? 
+
+- Veraguas:
+	Correlation coefficient                  0.9921
+	Mean absolute error                     41.8496
+	Root mean squared error                 55.4908
+	Relative absolute error                 20.5689 %
+	Root relative squared error             23.2117 %
+	Total Number of Instances               10
+
+  > Predicción:
+    inst#     actual  predicted      error
+        1          ?   1691.377          ? 
+        2          ?   1680.048          ? 
