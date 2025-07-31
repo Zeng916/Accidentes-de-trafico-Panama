@@ -116,7 +116,7 @@ Datos sobre la presición de los modelos de Machine Learning:
         1          ?   7293.092          ? 
         2          ?   7293.092          ? 
 
-- Bocas del Toro:
+- Veraguas:
 	Correlation coefficient                  0.9921
 	Mean absolute error                     41.8496
 	Root mean squared error                 55.4908
