@@ -1,0 +1,19 @@
+@relation accidents
+
+@attribute Provincia_de_Bocas_del_Toro numeric
+@attribute Provincia_de_Cocle numeric
+@attribute Provincia_de_Colon numeric
+@attribute Provincia_de_Chiriqui numeric
+@attribute Provincia_de_Darien numeric
+@attribute Provincia_de_Herrera numeric
+@attribute Provincia_de_Los_Santos numeric
+@attribute Provincia_de_Panama numeric
+@attribute Provincia_de_Panama_Oeste numeric
+@attribute Provincia_de_Veraguas numeric
+@attribute Comarca_Kuna_Yala numeric
+@attribute Comarca_Embera numeric
+@attribute Comarca_Ngabe_Bugle numeric
+
+@data
+403,1239,2528,2787,?,821,615,27997,5359,1177,1,1,37
+399,1558,2878,3463,?,845,650,31291,5460,1410,0,0,42
